@@ -1,3 +1,4 @@
+![Restaurant Sales SQL Project Thumbnail](thumbnail.png)
 # Restaurant Sales SQL Project
 
 This project showcases a full workflow from dirty data to SQL analytics. I cleaned a raw CSV of restaurant orders, imported it into SQLite, and wrote queries to extract insights about sales performance.
